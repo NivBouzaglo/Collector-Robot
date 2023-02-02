@@ -1,0 +1,5 @@
+
+---
+string[] name                 # model names
+geometry_msgs/Pose[] pose     # desired pose in world frame
+  
